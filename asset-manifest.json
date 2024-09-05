@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cart-react/static/css/main.1554c16a.css",
-    "main.js": "/cart-react/static/js/main.7aadcc45.js",
+    "main.css": "/cart-react/static/css/main.b25d1db2.css",
+    "main.js": "/cart-react/static/js/main.feb938d4.js",
     "static/media/dubai2.jpeg": "/cart-react/static/media/dubai2.284adf92ba0f965d6ac1.jpeg",
     "static/media/bannerImg.png": "/cart-react/static/media/bannerImg.b245a5b412c9b6765eb4.png",
     "static/media/angular.png": "/cart-react/static/media/angular.7430656662e186e865d3.png",
@@ -53,11 +53,11 @@
     "static/media/codeigniter.png": "/cart-react/static/media/codeigniter.7dee10f9c7c79086c51d.png",
     "static/media/logo.png": "/cart-react/static/media/logo.47d5541598e14e11da9f.png",
     "index.html": "/cart-react/index.html",
-    "main.1554c16a.css.map": "/cart-react/static/css/main.1554c16a.css.map",
-    "main.7aadcc45.js.map": "/cart-react/static/js/main.7aadcc45.js.map"
+    "main.b25d1db2.css.map": "/cart-react/static/css/main.b25d1db2.css.map",
+    "main.feb938d4.js.map": "/cart-react/static/js/main.feb938d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1554c16a.css",
-    "static/js/main.7aadcc45.js"
+    "static/css/main.b25d1db2.css",
+    "static/js/main.feb938d4.js"
   ]
 }
